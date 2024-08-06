@@ -1,5 +1,6 @@
 Instructions for running 2Scryption:
 
+- Install python and pygame if you don't have them
 - Open both scryptserver.py and scryptnetwork.py
 - Replace "localhost" with your server IP (or if using only one device, "localhost" will work)
     - The IP can be found from your Wi-Fi if you want to do LAN
