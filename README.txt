@@ -16,4 +16,3 @@ Game rules:
 - W and S can be used to show/hide the deck in most events
 - A and D can be used to scroll through the rulebook (button under scales)
 - S used to close the rulebook
-- There are probably bugs or crashes, just let me know if you find any ig
