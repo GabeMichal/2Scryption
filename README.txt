@@ -1,5 +1,6 @@
 Instructions for running 2Scryption:
 
+- Install python and pygame if you don't have them
 - Open both scryptserver.py and scryptnetwork.py
 - Replace "localhost" with your server IP (or if using only one device, "localhost" will work)
     - The IP can be found from your Wi-Fi if you want to do LAN
@@ -15,4 +16,3 @@ Game rules:
 - W and S can be used to show/hide the deck in most events
 - A and D can be used to scroll through the rulebook (button under scales)
 - S used to close the rulebook
-- There are probably bugs or crashes, just let me know if you find any ig
